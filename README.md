@@ -1,6 +1,6 @@
 # Certificates-and-Diplomas
 SoftUni - Certificates-and-Diplomas
-- Certificates are only awarded following a 4-hour exam, and students must attain a score of 5 or higher (with a maximum score of 6) to qualify for certification.
+Certificates are only awarded following a 4-hour exam, and students must attain a score of 5 or higher (with a maximum score of 6) to qualify for certification.
 
 ### - [Programming Basics with Java - February 2022](https://softuni.bg/certificates/details/128838/d5a63497)
 
